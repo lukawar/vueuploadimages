@@ -24,8 +24,9 @@
   ],
   "author": "lukawar",
   "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/lukawar/vueuploadimages/issues"
   },
   "homepage": "https://github.com/lukawar/vueuploadimages#readme"
-},
+}
