@@ -1,0 +1,31 @@
+{
+  "name": "vueuploadimages",
+  "version": "1.0.0",
+  "description": "Vue Component for upload images",
+  "main": "index.js",
+  "scripts": {
+    "test": "VueUploadImages"
+  },
+  "dependencies": {
+    "vue-popperjs": "^2.0.4",
+    "vue-image-lightbox-carousel": "^1.0.7",
+    "blueimp-load-image": "^2.24.0",
+    "vue-advanced-cropper": "^0.12.2",
+    "lodash": "^4.17.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukawar/vueuploadimages.git"
+  },
+  "keywords": [
+    "vue",
+    "upload",
+    "images"
+  ],
+  "author": "lukawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukawar/vueuploadimages/issues"
+  },
+  "homepage": "https://github.com/lukawar/vueuploadimages#readme"
+},
