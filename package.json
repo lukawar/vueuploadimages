@@ -1,5 +1,5 @@
 {
-  "name": "vueuploadimages",
+  "name": "@lukawar/vueuploadimages",
   "version": "1.0.0",
   "description": "Vue Component for upload images",
   "main": "index.js",
